@@ -1,0 +1,6 @@
+Evidence Pattern,Simple Concatenation Accuracy (%),Cross-Feature Attention Accuracy (%),Gain (%),Dominant Resolution Source
+High Hemoglobin + Normal Glucose + High CRP,86.2,93.7,+7.5,Inflammatory
+Normal Hemoglobin + High Glucose + Normal CRP,81.4,90.1,+8.7,Metabolic
+Normal Hemoglobin + Normal Glucose + High CRP,78.0,91.9,+13.9,Inflammatory
+High Hemoglobin + Normal Glucose + Normal CRP,84.8,89.0,+4.2,Hematological
+All features partially contradictory,76.5,88.2,+11.7,Balanced Fusion

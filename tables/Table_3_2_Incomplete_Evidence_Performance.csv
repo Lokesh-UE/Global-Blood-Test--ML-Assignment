@@ -1,0 +1,8 @@
+Available Feature Groups,Accuracy (%),Macro-F1 (%),ROC-AUC,ECE
+All Features (Complete),95.8,94.3,0.987,0.018
+Without Hematological,93.2,91.8,0.968,0.028
+Without Metabolic,92.8,91.2,0.962,0.032
+Without Lipid Profile,93.5,92.1,0.971,0.025
+Without Inflammatory,92.1,90.5,0.958,0.035
+Without Vital Signs,93.8,92.4,0.975,0.022
+Without Demographics,94.2,92.9,0.978,0.020

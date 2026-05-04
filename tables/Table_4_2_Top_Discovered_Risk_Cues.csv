@@ -1,0 +1,8 @@
+Cue Category,Representative Cue,Mean Importance Score,Common Risk Conditions,Feature Group
+Age-related Risk,Age > 65 years,0.28,"Cardiovascular, Diabetes",Demographics
+Glucose Elevation,Glucose > 126 mg/dL,0.24,"Diabetes, Prediabetes",Metabolic
+Hypertension,Systolic BP > 140 mmHg,0.18,"Cardiovascular, Stroke",Vital Signs
+LDL Cholesterol,LDL > 160 mg/dL,0.15,"Hyperlipidemia, CVD",Lipid Profile
+Inflammation Marker,CRP > 3.0 mg/L,0.14,"Inflammation, Infection",Inflammatory
+Anemia Indicator,Hemoglobin < 12 g/dL,0.12,"Anemia, Blood Disorders",Hematological
+BMI Obesity,BMI > 30 kg/m²,0.10,"Obesity, Metabolic Syndrome",Metabolic

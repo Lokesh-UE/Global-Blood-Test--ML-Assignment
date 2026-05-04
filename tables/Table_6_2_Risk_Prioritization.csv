@@ -1,0 +1,5 @@
+Risk Tier,Number of Patients,True High-Risk,Precision (%),Recommended Action
+Critical Risk,420,398,94.8,Immediate specialist referral / intervention
+High Risk,680,542,79.7,Urgent follow-up within 48 hours
+Moderate Risk,1250,312,25.0,Standard monitoring / lifestyle counseling
+Low Risk,32650,248,0.8,Routine screening / annual check-up

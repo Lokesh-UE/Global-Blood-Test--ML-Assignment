@@ -1,0 +1,6 @@
+Severity Level,Baseline ROC-AUC,Proposed ROC-AUC,Baseline ECE,Proposed ECE
+0 (Clean Data),0.923,0.987,0.042,0.018
+1 (Low Perturbation),0.891,0.978,0.058,0.025
+2 (Moderate Perturbation),0.845,0.963,0.078,0.034
+3 (High Perturbation),0.782,0.941,0.105,0.048
+4 (Extreme Perturbation),0.698,0.912,0.138,0.065

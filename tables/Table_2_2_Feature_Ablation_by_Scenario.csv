@@ -1,0 +1,7 @@
+Scenario,ΔF1 without Hematological,ΔF1 without Metabolic,ΔF1 without Lipid,ΔF1 without Inflammatory,Most Critical Feature Group
+Anemia Detection,-12.3,-4.2,-3.8,-5.1,Hematological
+Diabetes Risk,-5.8,-11.9,-4.5,-3.2,Metabolic
+Hyperlipidemia Screening,-3.5,-4.8,-13.4,-3.9,Lipid Profile
+Inflammation Monitoring,-4.2,-3.6,-3.1,-12.8,Inflammatory
+Cardiovascular Risk,-5.1,-6.3,-10.2,-4.5,Lipid Profile
+Multi-Condition Comorbidity,-6.8,-7.2,-8.5,-9.1,Inflammatory
